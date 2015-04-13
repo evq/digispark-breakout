@@ -3,6 +3,10 @@
 A digispark breakout primarily aimed at 3 pin "arduino" modules. I use it with
 relay boards, DHT11 / DHT22 temperature / humidity sensors, and hall effect sensors.
 
+Shared on [OSH Park.](https://oshpark.com/shared_projects/2PvuLxGp)
+
+![Board top](board_top.png) ![Board bottom](board_bot.png)
+
 ## Design notes
 
 * Exposes two D/A pins (P5 and P2) and one PWM pin (P0), P3 and P4 are not
